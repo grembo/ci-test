@@ -1,0 +1,17 @@
+os: FreeBSD
+
+FreeBSD:
+    - '11.2'
+    - '12.0'
+
+update: true
+
+language: rust
+
+rust:
+    - stable
+    - nightly
+
+deploy:
+    rust:
+        - nightly
