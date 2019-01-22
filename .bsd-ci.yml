@@ -12,6 +12,6 @@ rust:
     - stable
     - nightly
 
-deploy:
+no_deploy:
     rust:
         - nightly
