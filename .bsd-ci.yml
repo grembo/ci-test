@@ -1,8 +1,7 @@
 os: FreeBSD
 
 FreeBSD:
-    - '11.2'
-    - '12.0'
+    - '12.1'
 
 update: true
 
